@@ -35,12 +35,15 @@ Built using **React + Vite**, integrated with **Clerk authentication**, and styl
 
 ##  Tech Stack
 
-| Technology      | Description                         |
+| Technology      | Description                          |
 |------------------|-------------------------------------|
 | React + Vite     | Frontend framework + dev server     |
 | TailwindCSS      | Styling framework                   |
-| Clerk            | Authentication (Sign in / Sign up) |
+| Clerk            | Authentication (Sign in / Sign up)  |
 | Axios            | API communication with backend      |
+| Gemini API       | Blog Title and article              |
+| Cloudinary API   | For background and object removal   |
+| Clipdrop API     | For image generation                |
 | Lucide Icons     | UI Icons                            |
 
 ---
