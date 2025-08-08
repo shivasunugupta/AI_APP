@@ -41,7 +41,7 @@ const Hero = () => {
                     transition cursor-pointer">
                     Start creating now
                 </button>
-                <button
+{/*                 <button
                     className="bg-white px-10 py-3 
                     rounded-lg border
                     border-gray-300 
@@ -49,7 +49,7 @@ const Hero = () => {
                     transition cursor-pointer"
                 >
                     Watch demo
-                </button>
+                </button> */}
             </div>
 
             <div className="flex items-center gap-4
@@ -65,5 +65,6 @@ const Hero = () => {
     
   )
 }
+
 
 export default Hero
